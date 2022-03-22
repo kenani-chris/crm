@@ -1,0 +1,13 @@
+.export-btns{
+    display: none;
+    right: 1.5rem;
+    z-index: 1024;
+}
+.dataTables_length{
+    visibility: hidden !important;
+}
+.leadsCards .active,.leadsCards .active span,.leads-table-links .hover-active:hover{
+    background: #eb0a1f !important;
+    color: #fff !important;
+    transition: all 0.2s ease-in-out !important;
+}
